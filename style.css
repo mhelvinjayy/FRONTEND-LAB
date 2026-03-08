@@ -1,0 +1,16 @@
+body {
+  font-family: Arial;
+  text-align: center;
+}
+
+button {
+  padding: 10px;
+}
+
+/* Supplemental section styles */
+.info-section {
+  margin-top: 20px;
+  background-color: #f0f8ff;
+  padding: 16px;
+  border-radius: 8px;
+}
